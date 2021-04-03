@@ -667,7 +667,7 @@ aside:
       link: https://github.com/Malak2312/
   card_announcement:
     enable: true
-    content: 放假真香！
+    content: 又开学了……
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
