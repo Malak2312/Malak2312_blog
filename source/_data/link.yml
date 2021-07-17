@@ -1,39 +1,8 @@
-- class_name: 置顶推荐
-  class_desc: 超级好用的网站
-  link_list:
-    - name: Hexo
-      link: https://hexo.io/zh-cn/
-      avatar: /pic/hexo.webp
-      descr: 快速、简单且高效的博客框架
-    - name: Github
-      link: https://github.com/
-      avatar: /pic/github.webp
-      descr: 超好用的软件托管平台
 - class_name: 友情推荐
-  class_desc: 推荐去第一个网站
+  class_desc: 大佬们的网站
   link_list: 
     - name: 时过境迁的博客
       link: https://wr0926.ml
       avatar: https://cdn.jsdelivr.net/gh/wayne0926/myphoto/img/avatar.jpg
       descr: 以梦为马，不负韶华
-    - name: Youtube
-      link: http://youtube.com/
-      avatar: /pic/youtube.webp
-      descr: 国外的视频网站(GFW)
-    - name: Twitter
-      link: http://twitter.com/
-      avatar: /pic/twitter.webp
-      descr: 类似国外的"微博"(GFW)
-    - name: Facebook
-      link: http://facebook.com/
-      avatar: /pic/facebook.webp
-      descr: 国外的桌面聊天软件(GFW)
-    - name: 百度
-      link: http://baidu.com/
-      avatar: /pic/baidu.webp
-      descr: 全球最大的中文搜索引擎
-    - name: Google
-      link: http://google.com/
-      avatar: /pic/google.webp
-      descr: 公认的全球最大的搜索引擎(GFW)
  
