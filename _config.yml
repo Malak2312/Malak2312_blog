@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
 url: https://fatm.ml
 root: /
-permalink: :year/:month/:day/:title/
+permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -104,8 +104,14 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type:
+
 # Search
 search:
   path: search.xml
   field: post
   content: true
+
+# abbrlink config
+abbrlink:
+  alg: crc16 #算法：crc16和crc32
+  rep: hex #进制：dec和hex
