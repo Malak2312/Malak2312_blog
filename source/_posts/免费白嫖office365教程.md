@@ -4,13 +4,13 @@ date: 2021-08-23 20:17:00
 tags: 实用
 categories: Microsoft
 ---
-#简介
+# 简介
 
 今天偶然发现的白嫖方法，可以长期使用office365。支持`win10` `win11`
 
 >官网：https://developer.microsoft.com/zh-cn/microsoft-365/dev-program
 
-#正文
+# 正文
 
 1. 点击上面的网址，打开官网。（如图1）
 
@@ -36,6 +36,6 @@ categories: Microsoft
 
 >如果没有自带，在[office365](www.office.com)上登录后下载
 
-#结尾
+# 结尾
 
 这个订阅时间到后要去官网续订，自动续订以后更新吧[doge]。
