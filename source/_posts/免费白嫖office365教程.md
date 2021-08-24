@@ -3,6 +3,7 @@ title: 免费白嫖office365教程
 date: 2021-08-23 20:17:00
 tags: 实用
 categories: Microsoft
+cover: /img/office.webp
 ---
 #简介
 
